@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4dfd1fd1c685843489ad2598bd96697a, type: 3}
+  m_Name: Light
+  m_EditorClassIdentifier: 
+  themeId: light
+  displayName: Light
+  teamId: 
+  teamLogo: {fileID: 0}
+  background: {r: 0.5999999, g: 0.07132071, b: 0.5234201, a: 1}
+  surface: {r: 0.95, g: 0.95, b: 0.95, a: 1}
+  primary: {r: 0.9607843, g: 0.93096167, b: 0.12941174, a: 1}
+  secondary: {r: 0.26340067, g: 0.645283, b: 0, a: 1}
+  textPrimary: {r: 0, g: 0, b: 0, a: 1}
+  textSecondary: {r: 1, g: 1, b: 1, a: 1}
+  accent: {r: 1, g: 0.76, b: 0.03, a: 1}
+  success: {r: 0.2, g: 0.7, b: 0.3, a: 1}
+  warning: {r: 0.95, g: 0.6, b: 0.1, a: 1}
+  danger: {r: 0.85, g: 0.2, b: 0.2, a: 1}
+  uiFont: {fileID: 0}
+  sprites: []
